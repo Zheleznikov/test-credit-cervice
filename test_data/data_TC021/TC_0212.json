@@ -1,0 +1,33 @@
+[
+  {
+    "age": 60,
+    "sex": "male",
+    "incomingSource": "own business",
+    "incomeForLastYear": 10,
+    "creditRating": 0,
+    "requestedAmount": 0.5,
+    "loanRepaymentTime": 5,
+    "goal": "mortgage"
+  },
+    {
+    "age": 50,
+    "sex": "male",
+    "incomingSource": "own business",
+    "incomeForLastYear": 10,
+    "creditRating": 0,
+    "requestedAmount": 0.5,
+    "loanRepaymentTime": 16,
+    "goal": "mortgage"
+  },
+    {
+    "age": 62,
+    "sex": "male",
+    "incomingSource": "own business",
+    "incomeForLastYear": 10,
+    "creditRating": 0,
+    "requestedAmount": 0.5,
+    "loanRepaymentTime": 18,
+    "goal": "mortgage"
+  }
+]
+

@@ -1,0 +1,10 @@
+{
+  "age": 51,
+  "sex": "male",
+  "incomingSource": "own business",
+  "incomeForLastYear": 7,
+  "creditRating": 2,
+  "requestedAmount": 8,
+  "loanRepaymentTime": 3,
+  "goal": "mortgage"
+}
