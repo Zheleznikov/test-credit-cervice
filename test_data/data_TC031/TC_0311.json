@@ -1,0 +1,23 @@
+[
+  {
+    "age": 38,
+    "sex": "male",
+    "incomingSource": "own business",
+    "incomeForLastYear": 10,
+    "creditRating": -1,
+    "requestedAmount": 6,
+    "loanRepaymentTime": 4,
+    "goal": "mortgage"
+  },
+    {
+    "age": 38,
+    "sex": "male",
+    "incomingSource": "own business",
+    "incomeForLastYear": 10,
+    "creditRating": -1,
+    "requestedAmount": 0.8,
+    "loanRepaymentTime": 4,
+    "goal": "mortgage"
+  }
+]
+
