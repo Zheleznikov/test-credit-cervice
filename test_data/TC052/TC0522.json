@@ -1,0 +1,203 @@
+[
+  {
+    "age": 64,
+    "sex": "male",
+    "incomingSource": "passive income",
+    "incomeForLastYear": 10.5,
+    "creditRating": -2,
+    "requestedAmount": 1,
+    "loanRepaymentTime": 10,
+    "goal": "party"
+  },
+  {
+    "age": 61,
+    "sex": "female",
+    "incomingSource": "unemployed",
+    "incomeForLastYear": 0.1,
+    "creditRating": -1,
+    "requestedAmount": 4.9,
+    "loanRepaymentTime": 20,
+    "goal": "mortgage"
+  },
+  {
+    "age": 17,
+    "sex": "unknown",
+    "incomingSource": "pale blue eyes",
+    "incomeForLastYear": 0.9,
+    "creditRating": 0,
+    "requestedAmount": 14,
+    "loanRepaymentTime": 2,
+    "goal": "personal loan"
+  },
+  {
+    "age": 65,
+    "sex": "male",
+    "incomingSource": "own business",
+    "incomeForLastYear": 100,
+    "creditRating": 3,
+    "requestedAmount": 4.9,
+    "loanRepaymentTime": 19,
+    "goal": "business development"
+  },
+  {
+    "age": 17,
+    "sex": "female",
+    "incomingSource": "employee",
+    "incomeForLastYear": 20,
+    "creditRating": -3,
+    "requestedAmount": 1,
+    "loanRepaymentTime": 1,
+    "goal": "car loan"
+  },
+  {
+    "age": 64,
+    "sex": "male",
+    "incomingSource": "employee",
+    "incomeForLastYear": 12,
+    "creditRating": 1,
+    "requestedAmount": 3,
+    "loanRepaymentTime": 2,
+    "goal": "mortgage"
+  },
+  {
+    "age": 10,
+    "sex": "unknown",
+    "incomingSource": "employee",
+    "incomeForLastYear": 5.2,
+    "creditRating": -1,
+    "requestedAmount": 14,
+    "loanRepaymentTime": 10,
+    "goal": "business development"
+  },
+  {
+    "age": 19,
+    "sex": "unknown",
+    "incomingSource": "unemployed",
+    "incomeForLastYear": 0.9,
+    "creditRating": 1,
+    "requestedAmount": 5.1,
+    "loanRepaymentTime": 19,
+    "goal": "party"
+  },
+  {
+    "age": 64,
+    "sex": "female",
+    "incomingSource": "pale blue eyes",
+    "incomeForLastYear": 0.1,
+    "creditRating": -1,
+    "requestedAmount": 0.5,
+    "loanRepaymentTime": 19,
+    "goal": "car loan"
+  },
+  {
+    "age": 18,
+    "sex": "male",
+    "incomingSource": "unemployed",
+    "incomeForLastYear": 10.5,
+    "creditRating": 2,
+    "requestedAmount": 14,
+    "loanRepaymentTime": 2,
+    "goal": "car loan"
+  },
+  {
+    "age": 66,
+    "sex": "male",
+    "incomingSource": "pale blue eyes",
+    "incomeForLastYear": 20,
+    "creditRating": 2,
+    "requestedAmount": 10,
+    "loanRepaymentTime": 20,
+    "goal": "business development"
+  },
+  {
+    "age": 59,
+    "sex": "female",
+    "incomingSource": "own business",
+    "incomeForLastYear": 5.2,
+    "creditRating": -2,
+    "requestedAmount": 3,
+    "loanRepaymentTime": 10,
+    "goal": "party"
+  },
+  {
+    "age": 18,
+    "sex": "male",
+    "incomingSource": "unemployed",
+    "incomeForLastYear": 12,
+    "creditRating": 1,
+    "requestedAmount": 5.1,
+    "loanRepaymentTime": 1,
+    "goal": "personal loan"
+  },
+    {
+    "age": 30,
+    "sex": "male",
+    "incomingSource": "own business",
+    "incomeForLastYear": 0.9,
+    "creditRating": -2,
+    "requestedAmount": 1.1,
+    "loanRepaymentTime": 1,
+    "goal": "car loan"
+  },
+    {
+    "age": 65,
+    "sex": "male",
+    "incomingSource": "passive income",
+    "incomeForLastYear": 20,
+    "creditRating": 2,
+    "requestedAmount": 5.1,
+    "loanRepaymentTime": 20,
+    "goal": "car loan"
+  },
+
+  {
+    "age": 19,
+    "sex": "male",
+    "incomingSource": "passive income",
+    "incomeForLastYear": 0.1,
+    "creditRating": -2,
+    "requestedAmount": 10,
+    "loanRepaymentTime": 10,
+    "goal": "mortgage"
+  },
+    {
+    "age": 60,
+    "sex": "female",
+    "incomingSource": "unemployed",
+    "incomeForLastYear": 12,
+    "creditRating": -2,
+    "requestedAmount": 4.9,
+    "loanRepaymentTime": 20,
+    "goal": "car loan"
+  },
+    {
+    "age": 40,
+    "sex": "male",
+    "incomingSource": "unemployed",
+    "incomeForLastYear": 100,
+    "creditRating": -1,
+    "requestedAmount": 10.1,
+    "loanRepaymentTime": 10,
+    "goal": "mortgage"
+  },
+    {
+    "age": 18,
+    "sex": "male",
+    "incomingSource": "employee",
+    "incomeForLastYear": 0.9,
+    "creditRating": 1,
+    "requestedAmount": 4.9,
+    "loanRepaymentTime": 20,
+    "goal": "mortgage"
+  },
+    {
+    "age": 59,
+    "sex": "female",
+    "incomingSource": "employee",
+    "incomeForLastYear": 10.5,
+    "creditRating": -2,
+    "requestedAmount": 1.1,
+    "loanRepaymentTime": 2,
+    "goal": "personal loan"
+  }
+]

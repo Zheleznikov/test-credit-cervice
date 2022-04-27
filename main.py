@@ -1,16 +1,23 @@
-# This is a sample Python script.
+import math
 
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
+from utils.calc import calc_year_payment
 
 
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
+def print_hi():
+    print(-math.log10(0.1))
 
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    print_hi('PyCharm')
+    data =     {
+    "age": 30,
+    "sex": "female",
+    "incomingSource": "employee",
+    "incomeForLastYear": 2.1,
+    "creditRating": -1,
+    "requestedAmount": 1,
+    "loanRepaymentTime": 20,
+    "goal": "personal loan"
+  }
 
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+    print(calc_year_payment(data))

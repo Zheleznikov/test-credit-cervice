@@ -1,3 +1,6 @@
+import math
+
+
 def credit_should_be_approved(res):
     assert res.json().get("isCreditApproved") == True
 
@@ -15,4 +18,7 @@ def year_payment_should_absent(res):
 
 
 def year_payment_should_be_correct(res, year_payment):
-    assert res.json().get("yearPayment") == year_payment
+    print(' ')
+    print(str(res.json().get("yearPayment")))
+    print(str(year_payment))
+    assert str(res.json().get("yearPayment")) == str(year_payment)
