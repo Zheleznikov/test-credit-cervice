@@ -15,4 +15,4 @@ def test_tc_0521_credit_should_be_approved_payment_caled_correctly(bench, body):
     credit_should_be_approved(res)
     expected_year_payment = calc_year_payment(body)
     year_payment_should_be_correct(res, expected_year_payment)
-    # todo подготовить дополнительные тестовые данные
+    # todo добавить больше тел запроса с разными параметрами для проверки
